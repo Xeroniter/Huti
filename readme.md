@@ -8,4 +8,4 @@
 * Using Available Model, We Can Deploy Model on FastAPI
 
 ### 📘 Others
-* [Hut](https://github.com/Xeroniter/Hut)
+* [Hut](https://github.com/Kelnit/Hut)
